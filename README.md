@@ -38,6 +38,38 @@ python file.py
 
 ### Test 2 (Analytical: radial case):
 ```bash
-cd manapy/tests/Test1
+cd manapy/tests/Test2
 python file.py
 ```
+
+### Test 3 (Experimental: Test1):
+```bash
+cd manapy/tests/Test3
+python file.py
+```
+
+### Test 4 (Experimental: Test2):
+```bash
+cd manapy/tests/Test4
+python file.py
+```
+
+### Test 5 (Complex geometry):
+```bash
+cd manapy/tests/Test5
+python file.py
+```
+### Test 6 (T-shaped structure with delta empty):
+```bash
+cd manapy/tests/Test6
+python file.py
+```
+
+### Test 7 (T-shaped structure with delta filled):
+```bash
+cd manapy/tests/Test7
+python file.py
+```
+
+
+
