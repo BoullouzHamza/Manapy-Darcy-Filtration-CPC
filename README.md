@@ -27,3 +27,17 @@ python3 -m pip install --user -e .
 ```
 ## Running tests
 All the test cases are presented in the folder **tests**
+
+
+### Test 1 (Analytical: unidirectional case):
+```bash
+cd manapy/tests/Test1
+python file.py
+```
+
+
+### Test 2 (Analytical: radial case):
+```bash
+cd manapy/tests/Test1
+python file.py
+```
