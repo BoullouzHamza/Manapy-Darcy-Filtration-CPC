@@ -25,5 +25,5 @@ python3 -m pip install --user -e .
 ```python
 ./run_pyccel.sh
 ```
-
+## Running tests
 All the test cases are presented in the folder **tests**
