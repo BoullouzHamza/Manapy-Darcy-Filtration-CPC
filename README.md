@@ -66,9 +66,11 @@ python Test6.py
 ```
 
 ### Test 7 (T-shaped structure with delta filled):
+-----
 ```bash
 cd tests/Test7
 python Test7.py
+```
 
 To use Mumps solver
 
@@ -76,7 +78,6 @@ To use Mumps solver
 sudo apt install libmumps-ptscotch-dev && pip install pymumps
 ```
 
-```
 
 
 
