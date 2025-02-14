@@ -14,7 +14,7 @@ sudo apt-get install python3 python3-dev
 ```bash
 python3 -m pip install .
 ```
-   
+
 ***Development mode**:
 ```bash
 python3 -m pip install --user -e .
@@ -77,7 +77,3 @@ To use Mumps solver
 ```sh
 sudo apt install libmumps-ptscotch-dev && pip install pymumps
 ```
-
-
-
-
