@@ -87,9 +87,3 @@ python Test6.py
 cd tests/Test7
 python Test7.py
 ```
-
-To use Mumps solver
-
-```sh
-sudo apt install libmumps-ptscotch-dev && pip install pymumps
-```
